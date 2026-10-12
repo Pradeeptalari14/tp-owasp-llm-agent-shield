@@ -1,0 +1,13 @@
+guardrails:
+  version: "2.0"
+  owaspCompliance:
+    llm01_prompt_injection:
+      classifier: "meta-llama/Llama-Guard-3-8B"
+      action: "BLOCK_AND_LOG"
+    llm02_insecure_output:
+      sanitizer: "html-escape-strict"
+    llm06_sensitive_info:
+      masking: "PII_REGEX_ENTITIES"
+    llm08_tool_hijacking:
+      humanInTheLoop: true
+      sandbox: "gVisor"
