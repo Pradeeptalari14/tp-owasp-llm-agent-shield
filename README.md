@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # OWASP Top 10 for LLMs & AI Agent Shield Studio
 
 [![CI Validation](https://github.com/Pradeeptalari14/tp-owasp-llm-agent-shield/actions/workflows/ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-owasp-llm-agent-shield/actions)
@@ -120,3 +123,6 @@ spec:
 ## 7. License
 
 Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Talari Pradeep.
+
+---
+*Synchronized with [OWASP Top 10 for LLMs & AI Agent Shield Studio Studio](https://pradeeptalari.me/tools/owasp-llm-agent-shield/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
